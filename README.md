@@ -12,6 +12,16 @@ A professional front-end template for building fast, robust, and adaptable web a
 
 [html5boilerplate.com](html5boilerplate.com/)
 
+## CSS
+
+### [Skeleton](https://github.com/dhg/Skeleton)
+
+Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+
+`css`
+
+[getskeleton.com](http://getskeleton.com/)
+
 ## React JS
 
 ### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
@@ -106,16 +116,6 @@ A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Gui
 
 [wppb.io](wppb.io)
 
-## Server
-
-### [server-configs-nginx](https://github.com/h5bp/server-configs-nginx)
-
-Nginx HTTP server boilerplate configs
-
-`nginx`
-
-[/h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx)
-
 ## Android
 
 ### [Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)
@@ -125,6 +125,14 @@ Android Boilerplate project using RxJava, Dagger 2, Espresso, Mockito + more!
 `android`
 
 [/hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)
+
+### [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate)
+
+An android boilerplate project using clean architecture
+
+`android`
+
+[/bufferapp/android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 
 ## .NET
 
@@ -136,6 +144,16 @@ ASP.NET Boilerplate - Web Application Framework
 
 [aspnetboilerplate.com](https://aspnetboilerplate.com/)
 
+## VR
+
+### [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate)
+
+A starting point for web-based VR experiences that work on all VR headsets.
+
+`vr` `javascript`
+
+[/borismus/webvr-boilerplate](https://github.com/borismus/webvr-boilerplate)
+
 ## Email
 
 ### [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
@@ -145,3 +163,21 @@ The email boilerplate for sending out nicely formatted messages.
 `email` `html`
 
 [htmlemailboilerplate.com](http://htmlemailboilerplate.com/)
+
+## Server
+
+### [server-configs-nginx](https://github.com/h5bp/server-configs-nginx)
+
+Nginx HTTP server boilerplate configs
+
+`nginx`
+
+[/h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx)
+
+### [server-configs-apache](https://github.com/h5bp/server-configs-apache)
+
+Apache HTTP server boilerplate configs
+
+`apache` `httpd`
+
+[/h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache)
